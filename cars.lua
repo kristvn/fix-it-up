@@ -13,7 +13,7 @@ local cars = {
     {name="Auidy V7", model="Audi A7", internal="", rate="0.1%", price="€50,000–€100,000", multiplier="1.2x"},
     {name="Auidy F8", model="Audi R8", internal=nil, rate="0.2%", price="€75,000-∞", multiplier="1.2x"},
     {name="Toyoda Supwa", model="Toyota Supra", internal="supra", rate="0.3%", price="€75,000-∞", multiplier="1.2x"},
-    {name="BNV K5 e60", model="BMW M5 E60", internal=nil, rate="0.5%", price="€60,000–€90,000", multiplier="1.2x"},
+    {name="BNV K5 e60", model="BMW M5 E60", internal="bmw e60", rate="0.5%", price="€60,000–€90,000", multiplier="1.2x"},
     {name="Auidy RF3", model="Audi RS3", internal="rs3", rate="0.6%", price="€40,000–€55,000", multiplier="1.2x"},
     {name="Missah 750x", model="Nissan 350Z", internal="Nissan 350Z", rate="1%", price="€30,000–€55,000", multiplier="1.2x"},
     {name="Auidy V5", model="Audi A5", internal="audi a5", rate="1%", price="€40,000–€55,000", multiplier="1.2x"},
