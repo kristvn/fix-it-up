@@ -9,7 +9,7 @@ local cars = {
     {name="BNV K8", model="BMW M8", internal=nil, rate="0.05%", price="€180,000–€230,000", multiplier="1.2x"},
     {name="Marquis SLX", model="Mercedes SLS", internal=nil, rate="0.05%", price="€180,000–€280,000", multiplier="1.2x"},
     {name="Fia-Te Double", model="Fiat Multipla", internal=nil, rate="0.05%", price="€15,000–€20,000", multiplier="4x"},
-    {name="Chule Curgete", model="Corvette C6", internal=nil, rate="0.1%", price="€65,000–€120,000", multiplier="1.2x"},
+    {name="Chule Curgete", model="Corvette C6", internal="C6", rate="0.1%", price="€65,000–€120,000", multiplier="1.2x"},
     {name="Auidy V7", model="Audi A7", internal=nil, rate="0.1%", price="€50,000–€100,000", multiplier="1.2x"},
     {name="Auidy F8", model="Audi R8", internal=nil, rate="0.2%", price="€75,000-∞", multiplier="1.2x"},
     {name="Toyoda Supwa", model="Toyota Supra", internal="supra", rate="0.3%", price="€75,000-∞", multiplier="1.2x"},
